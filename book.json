@@ -1,14 +1,14 @@
 {
   "gitbook": "3.2.3",
-  "title": "gitbook-notes",
-  "description": "记录 GitBook 的配置和一些插件的使用",
-  "author": "Zhang Peng",
+  "title": "gitbook-school",
+  "description": "记录 校园管理 文档",
+  "author": "gaoxiaobo",
   "output.name": "site",
   "language": "zh-hans",
   "root": "./docs",
   "links": {
     "sidebar": {
-      "gitbook-notes": "https://github.com/atlantis1024/gitbook-notes"
+      "gitbook-school": "https://github.com/gaoxiaobobo/gitbook-school"
     }
   },
   "plugins": [
@@ -52,10 +52,10 @@
       ]
     },
     "github": {
-      "url": "https://github.com/atlantis1024/gitbook-notes"
+      "url": "https://github.com/gaoxiaobobo/gitbook-school"
     },
     "github-buttons": {
-      "repo": "atlantis1024/gitbook-notes",
+      "repo": "gaoxiaobobo/gitbook-school",
       "types": [
         "star"
       ],
@@ -75,7 +75,7 @@
       "vk": false
     },
     "tbfed-pagefooter": {
-      "copyright": "Copyright © Zhang Peng 2017",
+      "copyright": "Copyright © gaoxiaobo 2017",
       "modify_label": "文件最近一次修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
@@ -95,11 +95,11 @@
       "skipFirstH1": true
     },
     "edit-link": {
-      "base": "https://github.com/atlantis1024/gitbook-notes/blob/master/docs",
+      "base": "https://github.com/gaoxiaobobo/gitbook-school/blob/master/docs",
       "label": "编辑此页面"
     },
     "sitemap-general": {
-      "prefix": "https://github.com/atlantis1024"
+      "prefix": "https://github.com/gaoxiaobobo"
     },
     "anchor-navigation-ex": {
       "showLevel": false,
