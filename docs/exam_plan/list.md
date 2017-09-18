@@ -10,3 +10,12 @@
 
 1. 失效时间到，自动触发
 2. 点此按钮，手动触发
+
+### 接口规则
+```
+列表 /examPlan/list     get
+新增 /examPlan          post
+详情 /examPlan/{id}     get
+修改 /examPlan          put
+删除 /examPlan/{id}     delete
+```

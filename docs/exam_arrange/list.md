@@ -9,3 +9,11 @@
 ### 排考
 进入排考入口,以年级为单位  
 
+
+### 接口规则
+```
+列表 /examArrange/list      get
+排考入口-年级 /examArrange/grade  get
+排考页-班级考场 /examArrange/classRoom     get
+人员管理 /examArrange/people          get
+```

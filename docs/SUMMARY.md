@@ -9,6 +9,7 @@
 * [列表](exam_plan/list.md)
 * [新增](exam_plan/add.md)
 * [详情](exam_plan/detail.md)
+* [配置](exam_plan/mark.md)
 * [等级](exam_plan/rank.md)
 
 
