@@ -4,13 +4,19 @@
 
 * [简介](README.md)
 
-## 基础
+## 考试计划
 
-* [安装](basics/installation.md)
-* [命令](basics/commands.md)
-* [结构](basics/structure.md)
-* [配置](basics/settings.md)
-* [发布](basics/deploy.md)
-* [生成电子书](basics/generating-ebooks-and-pdfs.md)
+* [列表](exam_plan/list.md)
+* [新增](exam_plan/add.md)
+* [详情](exam_plan/detail.md)
+* [等级](exam_plan/rank.md)
+
+
+## 考试安排
+
+* [列表](exam_arrange/list.md)
+* [入口](exam_arrange/entry.md)
+* [排考](exam_arrange/arrange.md)
+* [人员管理](exam_arrange/people.md)
 
 
