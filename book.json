@@ -34,7 +34,6 @@
     "tbfed-pagefooter@^0.0.1",
     "expandable-chapters-small@^0.1.7",
     "sectionx@^3.1.0",
-    "donate@^1.0.2",
     "local-video@^1.0.1",
     "sitemap-general@^0.1.1",
     "anchor-navigation-ex@1.0.10",
@@ -81,14 +80,6 @@
     },
     "3-ba": {
       "token": "98c1048ef34431fef7bec1693e4a15cf"
-    },
-    "donate": {
-      "wechat": "https://raw.githubusercontent.com/atlantis1024/gitbook-notes/master/assets/images/weixin.jpg",
-      "alipay": "https://raw.githubusercontent.com/atlantis1024/gitbook-notes/master/assets/images/zhifubao.jpg",
-      "title": "",
-      "button": "赏",
-      "alipayText": "支付宝打赏",
-      "wechatText": "微信打赏"
     },
     "simple-page-toc": {
       "maxDepth": 4,

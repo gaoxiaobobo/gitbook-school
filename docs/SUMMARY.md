@@ -20,4 +20,9 @@
 * [排考](exam_arrange/arrange.md)
 * [人员管理](exam_arrange/people.md)
 
+## 考试成绩
 
+* [列表](exam_score/list.md)
+* [入口](exam_score/entry.md)
+* [排考](exam_score/arrange.md)
+* [人员管理](exam_score/people.md)
