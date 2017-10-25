@@ -39,7 +39,8 @@
     "anchor-navigation-ex@1.0.10",
     "favicon@^0.0.2",
     "todo@^0.1.3",
-    "3-ba@^0.9.0"
+    "3-ba@^0.9.0",
+    "popup"
   ],
   "pluginsConfig": {
     "theme-default": {
